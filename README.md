@@ -13,6 +13,17 @@ TDLib (Telegram Database library) is a cross-platform library for building [Tele
 - [Using with other programming languages](#using-json)
 - [License](#license)
 
+## Table of Contents
+- [Features](#features)
+- [Examples and documentation](#usage)
+- [Dependencies](#dependencies)
+- [Building](#building)
+- [Using in CMake C++ projects](#using-cxx)
+- [Using in Java projects](#using-java)
+- [Using in .NET projects](#using-dotnet)
+- [Using with other programing languages](#using-json)
+- [License](#license)
+
 <a name="features"></a>
 ## Features
 
